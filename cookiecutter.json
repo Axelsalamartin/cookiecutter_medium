@@ -1,0 +1,6 @@
+{
+    "project_name": "default_name",
+    "_author": "axel sala-martin",
+    "datapath": ["mnist", "fashion_mnist"],
+    "build_features": ["yes", "no"]
+}
